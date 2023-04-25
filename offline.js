@@ -1,0 +1,33 @@
+﻿{
+	"version": 1682423576,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/fon-sheet0.png",
+		"images/shadow-sheet0.png",
+		"images/button-sheet0.png",
+		"images/pole-sheet0.png",
+		"images/pole-sheet1.png",
+		"images/button_del-sheet0.png",
+		"images/items_input-sheet0.png",
+		"images/inventory_fon-sheet0.png",
+		"images/items_inv-sheet0.png",
+		"images/items_output-sheet0.png",
+		"images/textbox_output-sheet0.png",
+		"images/button_clear_all-sheet0.png",
+		"images/button_exit-sheet0.png",
+		"images/volf-sheet0.png",
+		"images/vk_button-sheet0.png",
+		"images/yt_button-sheet0.png",
+		"images/option_button-sheet0.png",
+		"images/option_button-sheet1.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
